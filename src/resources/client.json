@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "full_name": "Otabek Tursunov",
+        "client_code": "BP001",
+        "created_by_id": 1,
+        "updated_by_id": 1
+    },
+    {
+        "id": 2,
+        "full_name": "Azizbek Zayniddinov",
+        "client_code": "BP002",
+        "created_by_id": 1,
+        "updated_by_id": 1
+    },
+    {
+        "id": 3,
+        "full_name": "Nodirbek Sobirov",
+        "client_code": "BP003",
+        "created_by_id": 1,
+        "updated_by_id": 1
+    },
+    {
+        "id": 4,
+        "full_name": "Mahmudbek Raximov",
+        "client_code": "BP004",
+        "created_by_id": 1,
+        "updated_by_id": 1
+    },
+    {
+        "id": 5,
+        "full_name": "Shoxrukh Mamatqulov",
+        "client_code": "BP005",
+        "created_by_id": 1,
+        "updated_by_id": 1
+    }
+]

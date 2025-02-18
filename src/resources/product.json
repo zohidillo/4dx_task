@@ -1,0 +1,64 @@
+{
+    "product_measurements": [
+        {
+            "id": 1,
+            "name": "KG",
+            "created_by_id": 1,
+            "updated_by_id": 1
+        },
+        {
+            "id": 2,
+            "name": "L",
+            "created_by_id": 1,
+            "updated_by_id": 1
+        },
+        {
+            "id": 3,
+            "name": "Dona",
+            "created_by_id": 1,
+            "updated_by_id": 1
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Tuz",
+            "product_code": "PR001",
+            "measurement_id": 1,
+            "created_by_id": 1,
+            "updated_by_id": 1
+        },
+        {
+            "id": 2,
+            "name": "Sut",
+            "product_code": "PR002",
+            "measurement_id": 2,
+            "created_by_id": 1,
+            "updated_by_id": 1
+        },
+        {
+            "id": 3,
+            "name": "Stul",
+            "product_code": "PR003",
+            "measurement_id": 3,
+            "created_by_id": 1,
+            "updated_by_id": 1
+        },
+        {
+            "id": 4,
+            "name": "Choynak",
+            "product_code": "PR004",
+            "measurement_id": 3,
+            "created_by_id": 1,
+            "updated_by_id": 1
+        },
+        {
+            "id": 5,
+            "name": "Kitob",
+            "product_code": "PR005",
+            "measurement_id": 3,
+            "created_by_id": 1,
+            "updated_by_id": 1
+        }
+    ]
+}

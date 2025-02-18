@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Akbora Group",
+        "created_by_id": 1,
+        "updated_by_id": 1
+    },
+    {
+        "id": 2,
+        "name": "Doston Savdo",
+        "created_by_id": 1,
+        "updated_by_id": 1
+    },
+    {
+        "id": 3,
+        "name": "Yulduzlar Logistika",
+        "created_by_id": 1,
+        "updated_by_id": 1
+    },
+    {
+        "id": 4,
+        "name": "O'zbektex Import",
+        "created_by_id": 1,
+        "updated_by_id": 1
+    },
+    {
+        "id": 5,
+        "name": "Katta Shahar Invest",
+        "created_by_id": 1,
+        "updated_by_id": 1
+    }
+]
