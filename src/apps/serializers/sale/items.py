@@ -11,11 +11,9 @@ class CreateDocumentSaleItemSerializer(serializers.ModelSerializer):
 
 
 class DocumentSaleItemSerializer(serializers.ModelSerializer):
-    created_by = base.build_relational_model_serializer(models.User, fields_=("id", "username"))
-    updated_by = base.build_relational_model_serializer(models.User, fields_=("id", "username"))
     product = base.build_relational_model_serializer(models.Product, fields_=("id", "name"))
     warehouse = base.build_relational_model_serializer(models.Warehouse, fields_=("id", "name"))
 
     class Meta:
         model = models.DocumentSaleItem
-        fields = "__all__"
+        exclude = ("created_by", "updated_by", "added_at", "updated_at", "document")
